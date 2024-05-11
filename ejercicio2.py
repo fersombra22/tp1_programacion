@@ -1,3 +1,7 @@
+#2.	EscribaunprogramaPythonqueacepteelnúmerodeidentificacióndeunempleado,
+#elsalarioporhoradel empleado y el total de horas trabajadas en un mes.
+#Imprima la identificación y el salario delempleadodeunmesenparticular.
+
 print("ingrese el numero de identificacion del empleado")
 id= int(input())
 print(" ingrese el saladrio por hora del empleado")

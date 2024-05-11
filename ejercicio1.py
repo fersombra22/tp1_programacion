@@ -1,3 +1,5 @@
+#1.	EscribaunprogramaenPythonparaconvertirsegundosaminutos,minutosahorasyhorasadías.
+
 print("ingrese la cantidad de segundos")
 segundos=int (input())
 

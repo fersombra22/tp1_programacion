@@ -5,4 +5,4 @@ millas=float(input())
 
 km = millas / 1609
 
-print(f"{millas} millas equivalen a {int(km)}  kilómetros.") 
+print(f"{millas} millas equivalen a {float(km)}  kilómetros.") 

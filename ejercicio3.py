@@ -1,3 +1,6 @@
+#3.	Escriba un programa en Python que calcule las raíces de una ecuación,
+#usando la ecuación de segundogrado.
+
 import math
 a = float(input("Ingrese a: "))
 b = float(input("Ingrese b: "))
